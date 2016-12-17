@@ -1,0 +1,17 @@
+export const LOAD_ITEMS = "LOAD_ITEMS";
+export const LOAD_ITEMS_SUCCESS = "LOAD_ITEMS_SUCCESS";
+
+export const LOAD_ITEM = "LOAD_ITEM";
+export const LOAD_ITEM_SUCCESS = "LOAD_ITEM_SUCCESS";
+
+export const ADD_ITEM = "ADD_ITEM";
+export const ADD_ITEM_SUCCESS = "ADD_ITEM_SUCCESS";
+
+export const EDIT_ITEM = "EDIT_ITEM";
+export const EDIT_ITEM_SUCCESS = "EDIT_ITEM_SUCCESS";
+
+export const DELETE_ITEM = "DELETE_ITEM";
+export const DELETE_ITEM_SUCCESS = "DELETE_ITEM_SUCCESS";
+
+export const SHOW_FORM_SUCCESS = "SHOW_FORM_SUCCESS";
+export const HIDE_FORM = "HIDE_FORM";
